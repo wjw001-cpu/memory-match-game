@@ -1,0 +1,5 @@
+# Git ignore file — keeps unnecessary files out of GitHub
+__pycache__/
+*.pyc
+.DS_Store
+.env
